@@ -1,7 +1,11 @@
 header {
-  background: lightblue;
+  height: 100vh;
   display: flex;
   justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background: grey;
+  height: 100vh;
   color: green;
 }
 header button {
@@ -11,6 +15,11 @@ header button:hover {
   background-color: yellow;
 }
 
-.contact button {
-  background: blue;
+.contact {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  background: orange;
 }/*# sourceMappingURL=style.css.map */
