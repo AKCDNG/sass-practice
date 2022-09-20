@@ -2,8 +2,8 @@ header {
   background: lightblue;
   display: flex;
   justify-content: center;
+  color: green;
 }
-
 header button {
   background: blue;
 }
