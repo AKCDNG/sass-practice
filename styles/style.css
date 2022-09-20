@@ -1,0 +1,13 @@
+header {
+  background: lightblue;
+  display: flex;
+  justify-content: center;
+}
+
+header button {
+  background: blue;
+}
+
+.contact button {
+  background: blue;
+}/*# sourceMappingURL=style.css.map */
