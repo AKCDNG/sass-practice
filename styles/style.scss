@@ -2,5 +2,6 @@
 @import './variables';
 
 .contact {
-  @include flexCenter(row, orange);
+  @extend header;
+  background: lightcoral;
 }

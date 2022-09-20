@@ -1,25 +1,15 @@
-header {
-  height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  background: grey;
+header, .contact {
   height: 100vh;
   color: green;
+  background: lightblue;
 }
-header button {
+header button, .contact button {
   background: blue;
 }
-header button:hover {
+header button:hover, .contact button:hover {
   background-color: yellow;
 }
 
 .contact {
-  height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: row;
-  background: orange;
+  background: lightcoral;
 }/*# sourceMappingURL=style.css.map */
