@@ -1,15 +1,7 @@
 $primaryBtn: blue;
 $textColour: green;
 
-header {
-  background: lightblue;
-  display: flex;
-  justify-content: center;
-  color: $textColour;
-  button {
-    background: $primaryBtn;
-  }
-}
+@import './header';
 
 .contact button {
   background: $primaryBtn;

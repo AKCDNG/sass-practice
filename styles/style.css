@@ -7,6 +7,9 @@ header {
 header button {
   background: blue;
 }
+header button:hover {
+  background-color: yellow;
+}
 
 .contact button {
   background: blue;
